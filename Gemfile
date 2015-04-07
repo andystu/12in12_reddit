@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'simple_form'
 gem 'acts_as_votable'
 gem 'devise'
 gem 'coffee-script-source','1.8.0'
